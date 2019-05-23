@@ -20,4 +20,9 @@ Monkey can climb the tree.
 open you eyes
 What color is the car?
 close you eyes
-
+How are you?
+Fine,thank you. And you?
+Who is he?
+Who is she?
+Who am I?
+Who are you?
