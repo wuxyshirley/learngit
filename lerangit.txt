@@ -1,2 +1,23 @@
 Git is a version control system.
 Git is free software.
+
+What's your name?
+How old are you?
+Where is your football?
+I like to play football,basketball,guns,transformers and legos.
+I like to eat choclate,dumplings.
+I have a car.
+What day is it today?
+What day was it yestoday?
+What day is it tomorrow?
+How's the weather today?
+How's the weather yestoday?
+How's the weather tomorrow?
+What is it?
+Can you fly?
+Can you swim?
+Monkey can climb the tree.
+open you eyes
+What color is the car?
+close you eyes
+
